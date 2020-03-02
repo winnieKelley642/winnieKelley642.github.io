@@ -1,0 +1,16 @@
+h1{
+    font-weight: bold;
+    color: red;
+}
+
+#wrapper{
+    margin: 0 auto;
+}
+
+img{
+    margin: 0 auto;
+    width: 90%;
+}
+video{
+    width: 90%;
+}
